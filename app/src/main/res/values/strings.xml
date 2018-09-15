@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">where</string>
+    <string name="my_page">آگهی ها</string>
+    <string name="public_a">عمومی</string>
+    <string name="private_a">خصوصی</string>
+    <string name="dev">توسعه دهنده</string>
+    <string name="search">جستوجو</string>
+    <string name="group_page">دسته بندی ها</string>
+    <string name="home_page">خانه</string>
+</resources>
